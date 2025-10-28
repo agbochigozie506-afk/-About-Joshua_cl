@@ -1,2 +1,2 @@
 # -About-Joshua_cl
-My first Github account,  about the Guild programe mini documentation about me, my picture by HTML,CSS 
+My first Github account,about the Guild programe mini documentation about me,and my picture,programmed by HTML,CSS. 
